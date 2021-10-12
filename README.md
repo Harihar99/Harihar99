@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harihar Ajay Apamarjane</h1>
-<h3 align="center">A passionate computer enthusiast from India.  ENFPGraduated from Pune University (SKNCC, Pune).</h3>
-<h3 align="center">Currently doing Master's in Computer Applications.</h3>
-<h3 align="center">ENFPGraduated from Pune University (SKNCC, Pune).</h3>
+
+<h3 align="center">✨ENFP✨</h3>
+<h3 align="center">✨A passionate computer enthusiast from India.✨</h3>
+<h3 align="center">✨Currently doing Master's in Computer Applications.✨</h3>
+<h3 align="center">✨ENFPGraduated from Pune University (SKNCC, Pune).✨</h3>
 
 
 - 🔭 I’m currently working on [Bookcave](https://github.com/Harihar99/BookCave)
