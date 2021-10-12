@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harihar Ajay Apamarjane</h1>
 
-<h3 align="center">✨ENFP✨</h3>
 <h3 align="center">✨A passionate computer enthusiast from India.✨</h3>
+
 <h3 align="center">✨Currently doing Master's in Computer Applications.✨</h3>
-<h3 align="center">✨ENFPGraduated from Pune University (SKNCC, Pune).✨</h3>
+
+<h3 align="center">✨Graduated from Pune University (SKNCC, Pune).✨</h3>
 
 
 - 🔭 I’m currently working on [Bookcave](https://github.com/Harihar99/BookCave)
@@ -12,7 +13,7 @@
 
 - 📫 How to reach me **apamarjane60@gmail.com**
 
-- Some other shades of me:- **ENFP✨ Mélomaniac✨ Film+Series Aficionado ✨**
+- Some other shades of me:- **✨ Passionate classical musician ✨ Part time Graphic Designer ✨ Mélomaniac ✨ Film+Series Aficionado ✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
