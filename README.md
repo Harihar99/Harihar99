@@ -9,11 +9,12 @@
 
 - 🔭 I’m currently working on [Bookcave](https://github.com/Harihar99/BookCave)
 
-- 🌱 I’m currently learning **Flask, Deep learning, Cloud Technologies**
+- 🌱 I’m currently learning **Flask, Android, Deep learning, Cloud Technologies**
 
 - 📫 How to reach me **apamarjane60@gmail.com**
 
-- Some other shades of me:- **✨ Passionate classical musician ✨ Part time Graphic Designer ✨ Mélomaniac ✨ Film+Series Aficionado ✨**
+- Some other shades of me:- 
+- **✨ Passionate classical musician ✨ Part time Graphic Designer ✨ Mélomaniac ✨ Film+Series Aficionado ✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
