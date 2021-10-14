@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harihar Ajay Apamarjane</h1>
+<h1 align="center">Hi 👋, I'm Harihar Apamarjane</h1>
 
 <h3 align="center">✨A passionate computer enthusiast from India.✨</h3>
 
