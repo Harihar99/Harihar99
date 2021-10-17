@@ -2,11 +2,11 @@
 
 <h3 align="center">✨A passionate computer enthusiast from India.✨</h3>
 
-<h3 align="center">✨ Passionate classical musician ✨ Part time Graphic Designer ✨</h3>
-
 <h3 align="center">✨Currently doing Master's in Computer Applications.✨</h3>
 
 <h3 align="center">✨Graduated from Pune University (SKNCC, Pune).✨</h3>
+
+<h3 align="center">✨ Passionate classical musician ✨ Part time Graphic Designer ✨</h3>
 
 <h3 align="center">✨ Mélomaniac ✨ Film+Series Aficionado ✨</h3>
 
