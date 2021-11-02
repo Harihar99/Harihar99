@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harihar Apamarjane</h1>
 
+![](https://komarev.com/ghpvc/?username=harihar99&color=blueviolet&style=plastic)
+
 <h3 align="center">✨A passionate computer enthusiast from India.✨</h3>
 
 <h3 align="center">✨Currently doing Master's in Computer Applications.✨</h3>
