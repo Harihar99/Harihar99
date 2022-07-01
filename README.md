@@ -11,9 +11,7 @@
 
 <h3 align="center">✨ Mélomaniac ✨ Film+Series Aficionado ✨</h3>
 
-- 🔭 I’m currently working on [Bookcave](https://github.com/Harihar99/BookCave)
-
-- 🌱 I’m currently learning **Flask, Android, Deep learning, Cloud Technologies**
+- 🌱 I’m currently learning **Spring , Hibernate, Angular and MERN Stack development (MongoDB, Express js, React, Nodejs)**
 
 - 📫 How to reach me **apamarjane60@gmail.com**
 
