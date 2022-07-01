@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=harihar99&color=blueviolet&style=plastic)
-<h1 align="center"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="5px">Hi, I'm Harihar Apamarjane</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">Hi, I'm Harihar Apamarjane</h1>
 
 <h3 align="center">✨A passionate computer enthusiast from India.✨</h3>
 
